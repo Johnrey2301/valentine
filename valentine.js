@@ -23,4 +23,5 @@ function toggleLetter() {
     } else {
         hint.innerText = "Click the envelope to open!";
     }
+
 }
