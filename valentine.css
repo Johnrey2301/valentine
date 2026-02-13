@@ -24,7 +24,7 @@ body{
 
 #setup, #main-content{
     width:100%;
-    max-width:420px;
+    max-width:720px;
     background:var(--card);
     padding:28px;
     border-radius:14px;
@@ -156,3 +156,4 @@ button:focus{ outline: 3px solid rgba(209,45,45,0.14) }
 @media (prefers-reduced-motion: reduce){
     .envelope-wrapper, .flap, .letter, button, input{ transition:none !important; animation:none !important }
 }
+
